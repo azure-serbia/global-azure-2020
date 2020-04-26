@@ -3,4 +3,4 @@ This repository is the hub for slide decks and code files used on Global Azure S
 
 |**Speaker**|**Session**|**Content**|**Presentation Video**|
 |-|-|-|-|
-|Mark Brown|Building high-performance distributed applications with Azure Cosmos DB|[Deck & Demos](https://github.com/markjbrown/cosmos-global-distribution-demos)|[YT Video](https://youtu.be/9W60DSQ_hNM){:target="_blank"}|
+|Mark Brown|Building high-performance distributed applications with Azure Cosmos DB|[Deck & Demos](https://github.com/markjbrown/cosmos-global-distribution-demos)|[YT Video](https://youtu.be/9W60DSQ_hNM)|
